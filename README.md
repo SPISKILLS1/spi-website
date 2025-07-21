@@ -1,0 +1,3 @@
+Black 
+white 
+half red
